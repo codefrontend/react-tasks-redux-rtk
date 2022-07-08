@@ -1,5 +1,5 @@
 import FormTask from "../components/TaskForm";
-// import ToDo from "../components/ToDo";
+import ToDo from "../components/ToDo";
 // import Completed from "../components/Completed";
 
 const Home = () => {
@@ -9,8 +9,9 @@ const Home = () => {
         TASKS
       </h2>
       <FormTask />
-      {/* 
       <ToDo />
+      {/* 
+      
       <Completed /> */}
     </div>
   );
