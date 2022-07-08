@@ -9,15 +9,7 @@ const ToDo = () => {
   return (
     <div>
       <h2 className="title-c">TO DO</h2>
-      <div>
-        {tasksToDo.length === 0 ? (
-          <EmptyList text="All tasks completed" />
-        ) : (
-          tasksToDo.map((task) => {
-            return <ToDoList key={task.id} {...task} />;
-          })
-        )}
-      </div>
+      <div>TODO PE</div>
     </div>
   );
 };
