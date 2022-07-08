@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.title-c {
+  @apply text-[17px] pb-2 mt-6;
+}
+
+.task {
+  @apply bg-[#43446A] rounded-lg p-3 border-0 hover:bg-[#373760] mb-2 first:mt-0;
+}
+
+.task-completed {
+  @apply bg-[#373760] rounded-lg p-3 mb-2 first:mt-0;
+}
