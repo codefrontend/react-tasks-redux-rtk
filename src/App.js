@@ -1,5 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
+import List from "./pages/List";
+import TaskEdit from "./pages/TaskEdit";
 
 function App() {
   return (
@@ -8,7 +10,9 @@ function App() {
         <div className="w-3/6 mx-auto py-8">
           <Router>
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="/" element={<List />} />
+              <Route path="/lista" element={<List />} />
+              <Route path="/edit/:id" element={<TaskEdit />} />
             </Routes>
           </Router>
         </div>
