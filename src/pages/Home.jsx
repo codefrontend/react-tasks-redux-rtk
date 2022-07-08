@@ -1,6 +1,6 @@
-import FormTask from "../components/TaskForm";
-import ToDo from "../components/ToDo";
-import Completed from "../components/Completed";
+// import FormTask from "../components/TaskForm";
+// import ToDo from "../components/ToDo";
+// import Completed from "../components/Completed";
 
 const Home = () => {
   return (
@@ -8,9 +8,9 @@ const Home = () => {
       <h2 className="text-center text-white/50 text-4xl font-bold pb-8">
         TASKS
       </h2>
-      <FormTask />
+      {/* <FormTask />
       <ToDo />
-      <Completed />
+      <Completed /> */}
     </div>
   );
 };
