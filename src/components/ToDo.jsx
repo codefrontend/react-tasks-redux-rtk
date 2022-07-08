@@ -1,6 +1,6 @@
 import { useSelector } from "react-redux";
-import ToDoList from "./ToDoList";
-import EmptyList from "./EmptyList";
+// import ToDoList from "./ToDoList";
+// import EmptyList from "./EmptyList";
 
 const ToDo = () => {
   const tasks = useSelector((state) => state.tasks.taskItems);
