@@ -31,21 +31,7 @@ const ToDoList = ({ id, title, complete }) => {
           className="task item-list flex justify-between cursor-pointer transition drop-shadow"
           onClick={handleComplete}
         >
-          <h3>{title}</h3>
-          <div className="flex">
-            <Link
-              className="flex items-center justify-center rounded-md text-sm bg-cyan-600 hover:bg-cyan-500 transition duration-300 px-2 text-white"
-              to={`/edit/${id}`}
-              onClick={(e) => e.stopPropagation()}
-            >
-              ...
-              <MdModeEdit
-                size={"1em"}
-                color={""}
-                className="cursor-pointer  transition duration-300"
-              />{" "}
-            </Link>
-          </div>
+          LISTA 1
         </div>
       </motion.div>
     </AnimatePresence>
