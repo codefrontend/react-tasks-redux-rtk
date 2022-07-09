@@ -68,8 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-http://javichuparadise.com/foro/forums/relatos-eroticos.103/page-50
-http://javichuparadise.com/foro/members/rikardo222.46236/#recent-content
-http://javichuparadise.com/foro/threads/con-16-anos-embarace-a-mama.1117775/
-http://javichuparadise.com/foro/threads/con-16-anos-embarace-a-mama-2.1119831/
