@@ -1,6 +1,6 @@
 # Task APP
 
-### [Tasklive site](https://react-task-redux-rtk.netlify.app/)
+### [Task live site](https://react-task-redux-rtk.netlify.app/)
 
 # Getting Started with Create React App
 
